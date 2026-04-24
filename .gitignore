@@ -1,0 +1,14 @@
+build/
+cmake-build-*/
+*.o
+*.a
+CMakeCache.txt
+CMakeFiles/
+CTestTestfile.cmake
+Testing/
+_deps/
+docs/
+Doxyfile
+compile_commands.json
+.vscode/
+.idea/

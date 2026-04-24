@@ -1,3 +1,0 @@
-#!/bin/bash
-#g++ b64decode.cpp -o b64decode && ./b64decode
-gcc mirror.c -o mirror && ./mirror ftp.man.szczecin.pl/pub/gnu ./download -1
